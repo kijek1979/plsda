@@ -2,78 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1f78c9e-290b-48c6-b7a1-1c4c882bc40a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ouput_form.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/output_1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/output_2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/output_3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/output_4.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/output_5.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plsda.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Czas/AplikacjaCzas.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Czas/AplikacjaCzasMiast.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Czas/AplikacjaCzas_2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Czas/Początek.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/OperacjeNaPlikach/Początek.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/OperacjeNaPlikach/Zadania/Zadanie1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/OperacjeNaPlikach/Zadania/Zadanie1_2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/OperacjeNaPlikach/Zadania/Zadanie2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/OperacjeNaPlikach/Zadania/Zadanie2_2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/OperacjeNaPlikach/Zadania/Zadanie3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/OperacjeNaPlikach/Zadania/Zadanie4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/OperacjeNaPlikach/Zadania/Zadanie5/Formularz.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Programowanie_I/Dzien_drugi/Streamy/Początek/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Programowanie_I/Dzien_drugi/Streamy/Początek/MaleProgrammerPredicate.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Programowanie_I/Dzien_drugi/Streamy/Początek/Person.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Programowanie_I/Dzien_drugi/Streamy/Początek/Programmer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Zadanie_Watek/ThreadTask.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Zadanie_Watek/ThreadingMain.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Zadanie_Watek/pl/sda/wątki/zadanie2_cz1/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Zadanie_Watek/pl/sda/wątki/zadanie2_cz1/WorkPlace.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Zadanie_Watek/pl/sda/wątki/zadanie2_cz1/Worker.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Zadanie_Watek/pl/sda/wątki/zadanie_bank/Bank.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Zadanie_Watek/pl/sda/wątki/zadanie_bank/BankAccount.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Zadanie_Watek/pl/sda/wątki/zadanie_bank/KierunekPrzelewu.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Zadanie_Watek/pl/sda/wątki/zadanie_bank/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/Zadanie_Watek/pl/sda/wątki/zadanie_bank/ZleceniePrzelewu.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/pl/sda/Mapy/pl/sda/Mapy/Zadanie1/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/pl/sda/Mapy/pl/sda/Mapy/Zadanie1/Student.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/pl/sda/Mapy/pl/sda/Mapy/Zadanie1/University.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/Czas/AplikacjaCzas.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/Czas/AplikacjaCzasMiast.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/Czas/AplikacjaCzas_2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/Czas/Początek.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/OperacjeNaPlikach/Początek.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/OperacjeNaPlikach/Zadania/Zadanie1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/OperacjeNaPlikach/Zadania/Zadanie1_2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/OperacjeNaPlikach/Zadania/Zadanie2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/OperacjeNaPlikach/Zadania/Zadanie2_2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/OperacjeNaPlikach/Zadania/Zadanie3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/OperacjeNaPlikach/Zadania/Zadanie4.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/OperacjeNaPlikach/Zadania/Zadanie5/Formularz.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/Zadanie_Watek/ThreadTask.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/Zadanie_Watek/ThreadingMain.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/Zadanie_Watek/pl/sda/wątki/zadanie2_cz1/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/Zadanie_Watek/pl/sda/wątki/zadanie2_cz1/WorkPlace.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/Zadanie_Watek/pl/sda/wątki/zadanie2_cz1/Worker.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/Zadanie_Watek/pl/sda/wątki/zadanie_bank/Bank.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/Zadanie_Watek/pl/sda/wątki/zadanie_bank/BankAccount.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/Zadanie_Watek/pl/sda/wątki/zadanie_bank/KierunekPrzelewu.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/Zadanie_Watek/pl/sda/wątki/zadanie_bank/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/Zadanie_Watek/pl/sda/wątki/zadanie_bank/ZleceniePrzelewu.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/pl/sda/Mapy/pl/sda/Mapy/Zadanie1/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/pl/sda/Mapy/pl/sda/Mapy/Zadanie1/Student.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/pl/sda/pl/sda/Mapy/pl/sda/Mapy/Zadanie1/University.class" />
       <change beforePath="$PROJECT_DIR$/../Praca_w_domu_3/src/Operacje_na_plikach/Zadanie/Company.java" afterPath="$PROJECT_DIR$/../Praca_w_domu_3/src/Operacje_na_plikach/Zadanie/Company.java" />
       <change beforePath="$PROJECT_DIR$/../Praca_w_domu_3/src/Operacje_na_plikach/Zadanie/CompanyApp.java" afterPath="$PROJECT_DIR$/../Praca_w_domu_3/src/Operacje_na_plikach/Zadanie/CompanyApp.java" />
       <change beforePath="$PROJECT_DIR$/../Praca_w_domu_3/src/Operacje_na_plikach/Zadanie/Employee.java" afterPath="$PROJECT_DIR$/../Praca_w_domu_3/src/Operacje_na_plikach/Zadanie/Employee.java" />
       <change beforePath="$PROJECT_DIR$/../Praca_w_domu_3/src/Wyjątki/Numbers.java" afterPath="$PROJECT_DIR$/../Praca_w_domu_3/src/Wyjątki/Numbers.java" />
       <change beforePath="$PROJECT_DIR$/../Praca_w_domu_3/src/Wyjątki/Początek.java" afterPath="$PROJECT_DIR$/../Praca_w_domu_3/src/Wyjątki/Początek.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -525,6 +459,14 @@
       <option name="presentableId" value="Default" />
       <updated>1518252041045</updated>
     </task>
+    <task id="LOCAL-00001" summary="origin push">
+      <created>1520068391552</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1520068391552</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -560,6 +502,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="origin push" />
+    <option name="LAST_COMMIT_MESSAGE" value="origin push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
